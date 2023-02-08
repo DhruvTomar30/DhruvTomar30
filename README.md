@@ -9,7 +9,7 @@
 
 📫 How to reach me
 
--> Email-dhruvtomar2020@gmail.com
+-> Email - dhruvtomar2020@gmail.com
 
 -> LinkedIn - www.linkedin.com/in/dhruvtomar15102004
 
