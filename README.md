@@ -4,11 +4,11 @@
 
 🔧 Skills:
 
-Web Development: Proficient in both front-end and back-end development.
+Web Development :  Proficient in both front-end and back-end development.
 
-Programming Languages: JavaScript, Java.
+Programming Languages :  JavaScript, Java.
 
-Frameworks and Libraries: React, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap.
+Frameworks and Libraries :  React, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap.
 
 🌱 Currently Learning: Enhancing my knowledge in various web development frameworks and libraries.
 
