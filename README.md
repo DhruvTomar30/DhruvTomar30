@@ -16,5 +16,5 @@ Frameworks and Libraries: React, Node.js, Express, MongoDB, Tailwind CSS, Bootst
 Email: dhruvtomar2020@gmail.com
 LinkedIn: linkedin.com/in/dhruvtomar15102004
 Portfolio: portfoliodhruv.000webhostapp.com
-Twitter: twitter.com/DhruvTomar30
+Twitter: x.com/DhruvTomar30
 Instagram: instagram.com/dhruvtomar_30
